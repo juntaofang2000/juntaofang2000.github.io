@@ -15,8 +15,8 @@ main:
   - title: "Services"
     url: /#academic-services
 
-  # - title: "Competition"
-  #   url: /competition/
+  - title: "Blog"
+     url: /blog/
     
   # - title: "Portfolio"
   #   url: /portfolio/

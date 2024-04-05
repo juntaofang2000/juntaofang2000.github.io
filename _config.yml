@@ -6,7 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
+# Site Settings
 locale                   : "en-US"
 title                    : "Juntao Fang"
 title_separator          : "-"
@@ -15,20 +15,6 @@ description              : &description "personal description"
 url                      : https://juntaofang2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juntaofang2000/juntaofang2000.github.io"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-# author:
-#   # Biographic information
-#   avatar           : "juntao.jpg"
-#   name             : "Juntao Fang"
-#   pronouns         : # example: "she/her"  
-#   bio              : "Short biography for the left-hand sidebar"
-#   location         : "Earth"
-#   employer         : "Red Brick University"
-#   uri              : https://juntaofang2000.github.io/
-#   email            : "none@example.org" 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -92,14 +78,6 @@ analytics:
   google:
     tracking_id          :
 
-#   avatar           : "juntao.jpg"
-#   name             : "Juntao Fang"
-#   pronouns         : # example: "she/her"  
-#   bio              : "Short biography for the left-hand sidebar"
-#   location         : "Earth"
-#   employer         : "Red Brick University"
-#   uri              : https://juntaofang2000.github.io/
-#   email            : "none@example.org" 
 # Site Author
 author:
   name             : "Juntao Fang"

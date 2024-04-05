@@ -15,12 +15,15 @@ My research interests lie in large-scale graph analysis and graph neural network
 
 Publications
 ======
-**$^\#$ indicates equal contribution.**
 
 
-1. Huizhe Zhang$^\#$, **Juntao Fang$^\#$**, Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu, “Predicting miRNA–disease associations via node-level attention graph auto-encoder,” IEEE-ACM Transactions on Computational Biology and Bioinformatics, 10.1109/TCBB.2022.3170843, 2022. (CCF B)
+1. Huizhe Zhang#, **Juntao Fang#**, Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu, “Predicting miRNA–disease associations via node-level attention graph auto-encoder,” IEEE-ACM Transactions on Computational Biology and Bioinformatics, 10.1109/TCBB.2022.3170843, 2022.(CCF B) (Huizhe Zhang and Juntao Fang are **the joint first authors**)
 
-2. Siyi Teng$^\S$, **Jiadong Xie$^\S$**, Fan Zhang, Can Lu, Juntao Fang, Kai Wang.
+2. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang: Optimizing Network Resilience via Vertex Anchoring. Accepted by The Web Conference 2024 (oral). (CCF A)
+
+3. Patent: "A Method, System and Readable Storage Medium for Identifying Forged Face Videos", Publication Number: CN111967427A. (Status: Under Substantive Examination)
+
+<!-- 2. Siyi Teng$^\S$, **Jiadong Xie$^\S$**, Fan Zhang, Can Lu, Juntao Fang, Kai Wang.
    <u>Optimizing Network Resilience via Vertex Anchoring</u>.
    *Accepted by Proceedings of the ACM Web Conference (**TheWebConf**)*, **Oral**, 2024. [Code](https://github.com/Tsyxxxka/Follower-Maximization), [Video](https://www.youtube.com/watch?v=FidHoFm8uOE).
 3. **Jiadong Xie**, Fan Zhang, Kai Wang, Xuemin Lin, Wenjie Zhang.
@@ -43,9 +46,9 @@ Publications
    [PDF](/files/paper/%5Bwwwj22%5Dcollapse%20coreness.pdf).
 8. **Jiadong Xie**. <u>Hindering Influence Diffusion of Community</u>.
    *Proceedings of the ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2518-2520, 2022.
-   [PDF](/files/paper/%5Bsigmod22%5DHindering%20Influence%20Diffusion%20of%20Community.pdf), [Poster](/files/attachments/Jiadong_Xie_Poster.pdf), [Video](/files/attachments/Jiadong_Xie_pre_video.mp4).
+   [PDF](/files/paper/%5Bsigmod22%5DHindering%20Influence%20Diffusion%20of%20Community.pdf), [Poster](/files/attachments/Jiadong_Xie_Poster.pdf), [Video](/files/attachments/Jiadong_Xie_pre_video.mp4). -->
 
-
+<!-- 
 Teaching
 ======
 
@@ -64,19 +67,20 @@ Academic Services
   - CIKM 2023/2024, WWW 2024, IEEE Big Data 2024.
 - External Reviewer
   - VLDB, WWW, KDD, ICDE, VLDBJ, TODS, etc.
-
+ -->
 
 Experience
 ======
-- **Research Assistant**, the School of Computer Science and Engineering, University of New South Wale (UNSW Sydney), Jul. 2022 - Jul. 2023, advised by [Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/).
-- **Research Intern**, Microsoft Research Asia, Feb. 2022 - Jun. 2022.
+- **Research Intern**, Common Data Platform (CDP), Interactive Entertainment Group (IEG), Tencent, Nov. 2023 - Nov. 2024(Expected), supervised by [Dr. Wenqing Lin](https://edwlin.github.io/).
+- **Teaching Assistant** (Discrete mathematics), Cyberspace Institute of Advanced Technology, Guangzhou University, Feb. 2023 - Jun. 2023, supervised by [Prof. Fan Zhang](https://fanzhangcs.github.io/).
+
 
 Selected Awards
 ======
-- Undergraduate Student Research Competition Second Place @ [SIGMOD](/files/awards/Sigmod2022-certificate.pdf), 2022.
-- Outstanding Undergraduate Thesis @ ECNU, 2022.
-- Outstanding Graduate of Shanghai @ Shanghai, 2022.
-- The President's Scholarship @ ECNU, 2021.
-- Honors in The ICPC World Finals Contest @ [ICPC](/files/awards/2020-Invitational-PLACE.pdf), 2021.
+- Outstanding Graduate @ Guangdong University of Technology, 2022.
+- Outstanding Undergraduate Thesis @ Guangdong University of Technology, 2022
+- Star of Technological Innovation @ Guangdong University of Technology, 2022
+- Annual Outstanding Student Scholarship@ Guangdong University of Technology, 2019, 2020, 2021
+<!-- - Honors in The ICPC World Finals Contest @ [ICPC](/files/awards/2020-Invitational-PLACE.pdf), 2021.
 - Gold Medals in ICPC&CCPC @ 2018-2022, [More](/competition/).
-- First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Zhejiang, 2016/2017.
+- First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Zhejiang, 2016/2017. -->
