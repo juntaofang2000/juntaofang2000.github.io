@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Juntao Fang is currently a Master Student in Cyberspace Institute of Advanced Technology, Guangzhou University, supervised by [Prof. Fan Zhang](https://fanzhangcs.github.io/).
-Previously, he received his B.Eng. degree from Guangdong University of Technology in 2022.
+Welcome! My name is Juntao Fang and I am currently a Master Student in Cyberspace Institute of Advanced Technology, Guangzhou University, supervised by [Prof. Fan Zhang](https://fanzhangcs.github.io/). Alongside my studies, I am also serving as a Research Intern at  Tencent, where I am supervised by [Dr. Wenqing Lin](https://edwlin.github.io/). Previously, I received my B.Eng. degree from Guangdong University of Technology in 2022, where I was supervised by [A/Prof. Yuping Sun](https://yzw.gdut.edu.cn/info/1120/4729.htm). 
 
-His research interests lie in big data analytics, especially for the  graph/network.
+My research interests lie in large-scale graph analysis and graph neural networks.
 
 
 Publications
 ======
-**$^\star$ indicates corresponding author.**
-**$^\S$ indicates equal contribution.**
+**$^\#$ indicates equal contribution.**
 
-1. **Jiadong Xie**, Zehua Chen, Deming Chu, Fan Zhang, Xuemin Lin, Zhihong Tian.
-   <u>Influence Maximization via Vertex Countering</u>.
-   *Accepted by Proceedings of the VLDB Endowment (**PVLDB**)*, 2024. [PDF](https://www.vldb.org/pvldb/vol17/p1297-zhang.pdf).
+
+1. Huizhe Zhang$^\#$, **Juntao Fang$^\#$**, Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu, “Predicting miRNA–disease associations via node-level attention graph auto-encoder,” IEEE-ACM Transactions on Computational Biology and Bioinformatics, 10.1109/TCBB.2022.3170843, 2022. (CCF B)
+
 2. Siyi Teng$^\S$, **Jiadong Xie$^\S$**, Fan Zhang, Can Lu, Juntao Fang, Kai Wang.
    <u>Optimizing Network Resilience via Vertex Anchoring</u>.
    *Accepted by Proceedings of the ACM Web Conference (**TheWebConf**)*, **Oral**, 2024. [Code](https://github.com/Tsyxxxka/Follower-Maximization), [Video](https://www.youtube.com/watch?v=FidHoFm8uOE).
