@@ -6,18 +6,17 @@ main:
   # - title: "Talks"
   #   url: /#talks 
 
-  - title: "Teaching"
-    url: /#teaching  
+  # - title: "Teaching"
+  #   url: /#teaching  
 
   - title: "Awards"
     url: /#selected-awards
   
-  - title: "Services"
-    url: /#academic-services
+  # - title: "Services"
+  #   url: /#academic-services
 
   - title: "Blog"
-     url: /blog/
-    
+    url: /blog/
   # - title: "Portfolio"
   #   url: /portfolio/
         
