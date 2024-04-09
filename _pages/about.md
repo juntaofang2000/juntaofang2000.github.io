@@ -75,11 +75,17 @@ Experience
 - **Teaching Assistant** (Discrete mathematics), Cyberspace Institute of Advanced Technology, Guangzhou University, Feb. 2023 - Jun. 2023, supervised by [Prof. Fan Zhang](https://fanzhangcs.github.io/).
 
 
-Selected Awards
+Awards
 ======
-- Outstanding Graduate @ Guangdong University of Technology, 2022.
-- Outstanding Undergraduate Thesis @ Guangdong University of Technology, 2022
+- Outstanding Academic Achievement Award @ Guangzhou University, 2024
+- Excellence in Questioning Award @ Guangzhou University, 2024
+- Graduate Academic Scholarship @ Guangzhou University, 2022, 2023
+- **Outstanding Graduate** @ Guangdong University of Technology, 2022
+- **Outstanding Undergraduate Thesis** @ Guangdong University of Technology, 2022
 - Star of Technological Innovation @ Guangdong University of Technology, 2022
-- Annual Outstanding Student Scholarship@ Guangdong University of Technology, 2019, 2020, 2021
+- Challenge Cup Extracurricular Academic Science and Technology Competition School-Level Second Prize @
+Guangdong University of Technology, 2021
+- Annual Outstanding Student Scholarship @ Guangdong University of Technology, 2019, 2020, 2021
+- National Encouragement Scholarship, @ Department of Education of Guangdong Province, 2019
 
 
