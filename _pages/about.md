@@ -71,8 +71,8 @@ Academic Services
 
 Experience
 ======
-- **Research Intern**, Common Data Platform (CDP), Interactive Entertainment Group (IEG), Tencent, Nov. 2023 - Nov. 2024(Expected), supervised by [Dr. Wenqing Lin](https://edwlin.github.io/).
-- **Teaching Assistant** (Discrete mathematics), Cyberspace Institute of Advanced Technology, Guangzhou University, Feb. 2023 - Jun. 2023, supervised by [Prof. Fan Zhang](https://fanzhangcs.github.io/).
+- **Research Intern**, Common Data Platform (CDP), Interactive Entertainment Group (IEG), **Tencent**, Nov. 2023 - Nov. 2024(Expected), supervised by [Dr. Wenqing Lin](https://edwlin.github.io/).
+- **Teaching Assistant** (Discrete mathematics), Cyberspace Institute of Advanced Technology, **Guangzhou University**, Feb. 2023 - Jun. 2023, supervised by [Prof. Fan Zhang](https://fanzhangcs.github.io/).
 
 
 Awards
