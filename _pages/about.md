@@ -21,7 +21,7 @@ Publications
 
 2. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang: Optimizing Network Resilience via Vertex Anchoring. Accepted by The Web Conference 2024 (oral). (CCF A)
 
-3. Patent: "A Method, System and Readable Storage Medium for Identifying Forged Face Videos", Publication Number: CN111967427A. (Status: Under Substantive Examination)
+3. "Fake face video identification method, system and readable storage medium", Publication of CN111967427A, November 2020, 方俊涛(Juntao Fang), 孙宇平(Yuping Sun),凌捷(Jie Ling),罗玉 (Yu Luo)
 
 <!-- 2. Siyi Teng$^\S$, **Jiadong Xie$^\S$**, Fan Zhang, Can Lu, Juntao Fang, Kai Wang.
    <u>Optimizing Network Resilience via Vertex Anchoring</u>.
