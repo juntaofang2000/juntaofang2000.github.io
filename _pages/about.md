@@ -84,7 +84,7 @@ Awards
 - Graduate Academic Scholarship @ Guangzhou University, 2022, 2023
 - **Outstanding Graduate** @ Guangdong University of Technology, 2022
 - **Outstanding Undergraduate Thesis** @ Guangdong University of Technology, 2022
-- Star of Technological Innovation @ Guangdong University of Technology, 2022
+- **Star of Technological Innovation** @ Guangdong University of Technology, 2022
 - Challenge Cup Extracurricular Academic Science and Technology Competition School-Level Second Prize @
 Guangdong University of Technology, 2021
 - Annual Outstanding Student Scholarship @ Guangdong University of Technology, 2019, 2020, 2021
