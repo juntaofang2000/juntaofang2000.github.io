@@ -24,6 +24,7 @@ Publications
 3. **Juntao Fang**, Yuping Sun, Jie Ling, Yu Luo: “Fake face video identification method, system and readable storage medium.” CN111967427A publication, November 2020. (Patent)
 
 4.  **Juntao Fang**, Fan Zhang, et al: “Maximizing Coreness Gain under Incentive Allocation.” Preparing for Proceedings of the ACM Turing Award Celebration Conference-China. 2024
+
 <!-- 2. Siyi Teng$^\S$, **Jiadong Xie$^\S$**, Fan Zhang, Can Lu, Juntao Fang, Kai Wang.
    <u>Optimizing Network Resilience via Vertex Anchoring</u>.
    *Accepted by Proceedings of the ACM Web Conference (**TheWebConf**)*, **Oral**, 2024. [Code](https://github.com/Tsyxxxka/Follower-Maximization), [Video](https://www.youtube.com/watch?v=FidHoFm8uOE).
