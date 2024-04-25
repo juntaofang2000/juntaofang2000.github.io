@@ -17,11 +17,11 @@ Publications
 ======
 **\* indicates equal contribution.**
 
-1. Huizhe Zhang\*, **Juntao Fang\***, Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu: “Predicting miRNA–disease associations via node-level attention graph auto-encoder.” IEEE-ACM Transactions on Computational Biology and Bioinformatics, 10.1109/TCBB.2022.3170843, 2022. (CCF B) (Huizhe Zhang and Juntao Fang are the joint first authors)
+1. Huizhe Zhang\*, **Juntao Fang\***, Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu: “Predicting miRNA–disease associations via node-level attention graph auto-encoder.” IEEE-ACM Transactions on Computational Biology and Bioinformatics, 10.1109/TCBB.2022.3170843, 2022. (**CCF B**) (Huizhe Zhang and Juntao Fang are the joint first authors)
 
-2. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang “Optimizing Network Resilience via Vertex Anchoring.” Accepted by The Web Conference 2024 (oral). (CCF A)
+2. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang “Optimizing Network Resilience via Vertex Anchoring.” Accepted by The Web Conference 2024 (oral). (**CCF A**)
 
-3. **Juntao Fang**, Yuping Sun, Jie Ling, Yu Luo: “Fake face video identification method, system and readable storage medium.” CN111967427A publication, November 2020. (Patent)
+3. **Juntao Fang**, Yuping Sun, Jie Ling, Yu Luo: “Fake face video identification method, system and readable storage medium.” CN111967427A publication, November 2020. (**Patent**)
 
 4.  **Juntao Fang**, Fan Zhang, et al: “Maximizing Coreness Gain under Incentive Allocation.” Preparing for Proceedings of the ACM Turing Award Celebration Conference-China. 2024
 
