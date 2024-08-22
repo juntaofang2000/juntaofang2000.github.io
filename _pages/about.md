@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! My name is Juntao Fang and I am currently a Master Student in Cyberspace Institute of Advanced Technology, Guangzhou University, supervised by [Prof. Fan Zhang](https://fanzhangcs.github.io/). Alongside my studies, I am also serving as a Research Intern at  Tencent, where I am supervised by [Dr. Wenqing Lin](https://edwlin.github.io/). Previously, I received my B.Eng. degree from Guangdong University of Technology in 2022, where I was supervised by [A/Prof. Yuping Sun](https://yzw.gdut.edu.cn/info/1120/4729.htm). 
 
-My research interests lie in large-scale graph analysis and graph neural networks.
+My research interests lie in social network analysis and graph neural networks.
 
 
 Publications
