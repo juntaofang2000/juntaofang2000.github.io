@@ -23,9 +23,9 @@ Publications
 
 3. **Juntao Fang**, Yuping Sun, Jie Ling, Yu Luo: " Fake face video identification method, system and readable storage medium." CN111967427A publication, November 2020. (**Patent**)
 
-4. **Juntao Fang**, Weihao Yu, Fan Zhang, Wenqing Lin, Jiachen Sun, Zhihong Tian: " Effective and Efficient Graph Partitioning for A/B Testing on Social Networks." KDD 2025. (Submit) (**CCF A**)
+4. **Juntao Fang**, Weihao Yu, Fan Zhang, Wenqing Lin, Jiachen Sun, Zhihong Tian: " Effective and Efficient Graph Partitioning for A/B Testing on Social Networks." KDD 2025. (Under Review) (**CCF A**)
 
-5. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin, Zhihong Tian: " Maximizing Coreness Gain via Incentive Allocation." AAAI 2025. (Submit) (**CCF A**)
+5. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin, Zhihong Tian: " Maximizing Coreness Gain via Incentive Allocation." AAAI 2025. (Under Review) (**CCF A**)
 
 <!-- 4.  **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin : “Maximizing Coreness Gain via Incentive Allocation.” Proceedings of the ACM Turing Award Celebration Conference-China. 2024 (Accept) -->
 
