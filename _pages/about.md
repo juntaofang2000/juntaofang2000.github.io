@@ -17,17 +17,19 @@ Publications
 ======
 <!-- **\* indicates equal contribution.** -->
 
-1. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: " Maximizing Coreness Gain via Incentive Allocation." DIST 2024. (Accept) 
+1. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: "Maximizing Coreness Gain via Incentive Allocation." DIST 2024. (Accept) 
 
-2. **Juntao Fang**, Weihao Yu, Fan Zhang, Wenqing Lin, Jiachen Sun, Shaojie Qiao, Zhihong Tian: " Effective and Efficient Graph Partitioning for A/B Testing on Social Networks." ICDE 2025. (Under Review) (**CCF A**)
+2. **Juntao Fang**, Weihao Yu, Fan Zhang, Wenqing Lin, Jiachen Sun, Shaojie Qiao, Zhihong Tian: "Effective and Efficient Graph Partitioning for A/B Testing on Social Networks." VLDB 2025. (Under Review) (**CCF A**)
 
-3. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang: " Optimizing Network Resilience via Vertex Anchoring." Accepted by The Web Conference 2024 (oral). (**CCF A**)
+3. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang: "Optimizing Network Resilience via Vertex Anchoring." Accepted by The Web Conference 2024 (oral). (**CCF A**)
 
-3. **Juntao Fang**, Yuping Sun, Jie Ling, Yu Luo: " Fake face video identification method, system and readable storage medium." CN111967427A publication, November 2020. (**Patent**)
+4. Huizhe Zhang#, **Juntao Fang**# , Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu: "Predicting miRNA–disease 
+associations via node-level attention graph auto-encoder.” IEEE-ACM Transactions on Computational Biology and 
+Bioinformatics, 10.1109/TCBB.2022.3170843, 2022. (**CCF B**)
 
-4. **Juntao Fang**, Weihao Yu, Fan Zhang, Wenqing Lin, Jiachen Sun, Zhihong Tian: " Effective and Efficient Graph Partitioning for A/B Testing on Social Networks." KDD 2025. (Submit) (**CCF A**)
+5. **Juntao Fang**, Yuping Sun, Jie Ling, Yu Luo: "Fake face video identification method, system and readable storage medium." CN111967427A publication, November 2020. (**Patent**)
 
-5. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin, Zhihong Tian: " Maximizing Coreness Gain via Incentive Allocation." AAAI 2025. (Submit) (**CCF A**)
+
 
 <!-- 4.  **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin : “Maximizing Coreness Gain via Incentive Allocation.” Proceedings of the ACM Turing Award Celebration Conference-China. 2024 (Accept) -->
 
