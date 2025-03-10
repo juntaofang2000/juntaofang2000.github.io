@@ -15,7 +15,7 @@ My research interests lie in social network analysis and graph neural networks.
 
 Publications
 ======
-** # indicates equal contribution.**
+**# indicates equal contribution.**
 
 1. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: "Maximizing Coreness Gain via Incentive Allocation." DIST 2024. (Accept) 
 
