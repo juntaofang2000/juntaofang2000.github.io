@@ -17,7 +17,7 @@ Publications
 ======
 **# indicates equal contribution.**
 
-1. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: "Maximizing Coreness Gain via Incentive Allocation." DIST 2024. (Accept) 
+1. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: "Maximizing Coreness Gain via Incentive Allocation." Accepted by DIST 2024.
 
 2. **Juntao Fang**, Weihao Yu, Fan Zhang, Wenqing Lin, Jiachen Sun, Shaojie Qiao, Zhihong Tian: "Effective and Efficient Graph Partitioning for A/B Testing on Social Networks." VLDB 2025. (Under Review) (**CCF A**)
 
