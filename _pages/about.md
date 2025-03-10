@@ -15,7 +15,7 @@ My research interests lie in social network analysis and graph neural networks.
 
 Publications
 ======
-<!-- **\* indicates equal contribution.** -->
+** # indicates equal contribution.**
 
 1. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: "Maximizing Coreness Gain via Incentive Allocation." DIST 2024. (Accept) 
 
@@ -27,7 +27,7 @@ Publications
 associations via node-level attention graph auto-encoder.” IEEE-ACM Transactions on Computational Biology and 
 Bioinformatics, 10.1109/TCBB.2022.3170843, 2022. (**CCF B**)
 
-5. **Juntao Fang**, Yuping Sun, Jie Ling, Yu Luo: "Fake face video identification method, system and readable storage medium." CN111967427A publication, November 2020. (**Patent**)
+<!-- 5. **Juntao Fang**, Yuping Sun, Jie Ling, Yu Luo: "Fake face video identification method, system and readable storage medium." CN111967427A publication, November 2020. (**Patent**) -->
 
 
 
