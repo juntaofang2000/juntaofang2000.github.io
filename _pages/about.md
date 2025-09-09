@@ -21,11 +21,10 @@ Publications
 
 1. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: "Maximizing Coreness Gain via Incentive Allocation." Accepted by DIST 2024.
 
-2. **Juntao Fang**, Weihao Yu, Fan Zhang, Wenqing Lin, Jiachen Sun, Shaojie Qiao, Zhihong Tian: "Effective and Efficient Graph Partitioning for A/B Testing on Social Networks." VLDB 2025. (Under Review) (**CCF A**)
 
-3. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang: "Optimizing Network Resilience via Vertex Anchoring." Accepted by The Web Conference 2024 (oral). (**CCF A**)
+2. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang: "Optimizing Network Resilience via Vertex Anchoring." Accepted by The Web Conference 2024 (oral). (**CCF A**)
 
-4. Huizhe Zhang#, **Juntao Fang**# , Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu: "Predicting miRNA–disease 
+3. Huizhe Zhang#, **Juntao Fang**# , Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu: "Predicting miRNA–disease 
 associations via node-level attention graph auto-encoder.” IEEE-ACM Transactions on Computational Biology and 
 Bioinformatics, 10.1109/TCBB.2022.3170843, 2022. (**CCF B**)
 
