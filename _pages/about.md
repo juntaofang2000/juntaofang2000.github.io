@@ -88,9 +88,10 @@ Experience
 
 Awards
 ======
+- **Outstanding Graduate** @ Guangzhou University, 2025
 - Outstanding Academic Achievement Award @ Guangzhou University, 2024
 - Excellence in Questioning Award @ Guangzhou University, 2024
-- Graduate Academic Scholarship @ Guangzhou University, 2022, 2023
+- Graduate Academic Scholarship @ Guangzhou University, 2022, 2023,2024
 - **Outstanding Graduate** @ Guangdong University of Technology, 2022
 - **Outstanding Undergraduate Thesis** @ Guangdong University of Technology, 2022
 - **Star of Technological Innovation** @ Guangdong University of Technology, 2022
