@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in Computer Science at Guangdong University of Technology (GDUT), under the supervision of Prof. Ruichu Cai. Prior to joining GDUT, I received my M.S. degree in 2025 from the Cyberspace Institute of Advanced Technology at Guangzhou University, and my B.Eng. degree in 2022 from Guangdong University of Technology.
+I am currently a Ph.D. student in Computer Science at Guangdong University of Technology (GDUT), under the supervision of Prof. Ruichu Cai. Prior to joining GDUT, I received my M.S. degree in 2025 from the Cyberspace Institute of Advanced Technology at Guangzhou University, and my B.Eng. degree in 2022 from Guangdong University of Technology.
 
 My research interests lie in ​​causal machine learning​​ and ​​social network analysis​​, with a focus on developing interpretable and robust models for complex data-driven applications.
 
