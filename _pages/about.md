@@ -18,15 +18,12 @@ My research interests lie in ​​causal machine learning​​ and ​​socia
 Publications
 ======
 **# indicates equal contribution.**
-
-1. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: "Maximizing Coreness Gain via Incentive Allocation." Accepted by DIST 2024.
-
-
-2. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang: "Optimizing Network Resilience via Vertex Anchoring." Accepted by The Web Conference 2024 (oral). (**CCF A**)
-
-3. Huizhe Zhang#, **Juntao Fang**# , Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu: "Predicting miRNA–disease 
-associations via node-level attention graph auto-encoder.” IEEE-ACM Transactions on Computational Biology and 
-Bioinformatics, 10.1109/TCBB.2022.3170843, 2022. (**CCF B**)
+1. Junxian Huang, Ruichu Cai, **Juntao Fang**, Hao Zhu, Boyan Xu, Weilin Chen, Zijian Li, Shenghua Gao: "Hierarchical Action Learning for Weakly-Supervised Action Segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026.
+2. **Juntao Fang**, Shifeng Xie, Shengbin Nie, Yuhui Ling, Yuming Liu, Zijian Li, Keli Zhang, Lujia Pan, Themis Palpanas, Ruichu Cai: "Beyond Task-Specific Classifiers: In-Context Inference for Time Series Classification Foundation Models." ICML Workshop on Foundation Models for Structured Data, 2026.
+3. Changze Zhou, Ruichu Cai, Shengbin Nie, **Juntao Fang**, Jie Qiao, Zijian Li: "Disentangling Coarse and Fine Latent Dynamics for Probabilistic Time Series Forecasting." Accepted by IJCAI 2026.
+4. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: "Maximizing Coreness Gain via Incentive Allocation." Accepted by DSIT 2024.
+5. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang: "Optimizing Network Resilience via Vertex Anchoring." Accepted by The Web Conference 2024 (oral).
+6. Huizhe Zhang#, **Juntao Fang**# , Yuping Sun, Guobo Xie, Zhiyi Lin, Guosheng Gu:"Predicting miRNA–disease associations via node-level attention graph auto-encoder.” IEEE-ACM Transactions on Computational Biology and  Bioinformatics, 10.1109/TCBB.2022.3170843, 2022.
 
 <!-- 5. **Juntao Fang**, Yuping Sun, Jie Ling, Yu Luo: "Fake face video identification method, system and readable storage medium." CN111967427A publication, November 2020. (**Patent**) -->
 
@@ -82,8 +79,9 @@ Academic Services
 
 Experience
 ======
-- **Research Intern**, Common Data Platform (CDP), Interactive Entertainment Group (IEG), **Tencent**, Nov. 2023 – May 2024, supervised by [Dr. Wenqing Lin](https://edwlin.github.io/).
-- **Teaching Assistant** (Discrete mathematics), Cyberspace Institute of Advanced Technology, **Guangzhou University**, Feb. 2023 - Jun. 2023, supervised by [Prof. Fan Zhang](https://fanzhangcs.github.io/).
+- **Research Intern**, Noah's Ark Lab, **Huawei**, May 2026 – Present.
+- **Research Intern**, Common Data Platform (CDP), Interactive Entertainment Group (IEG), **Tencent**, Nov. 2023 – May 2024.
+- **Teaching Assistant** (Discrete mathematics), Cyberspace Institute of Advanced Technology, **Guangzhou University**, Feb. 2023 - Jun. 2023.
 
 
 Awards
@@ -98,6 +96,6 @@ Awards
 - Challenge Cup Extracurricular Academic Science and Technology Competition School-Level Second Prize @
 Guangdong University of Technology, 2021
 - Annual Outstanding Student Scholarship @ Guangdong University of Technology, 2019, 2020, 2021
-- National Encouragement Scholarship, @ Department of Education of Guangdong Province, 2019
+<!-- - National Encouragement Scholarship @ Department of Education of Guangdong Province, 2019 -->
 
 
