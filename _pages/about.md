@@ -12,6 +12,10 @@ I am currently a Ph.D. student in Computer Science at Guangdong University of Te
 
 My research interests lie in ​​causal machine learning​​ and ​​social network analysis​​, with a focus on developing interpretable and robust models for complex data-driven applications.
 
+Research Resources
+======
+
+- [**TSC-FM Benchmark: Benchmarking Foundation Models for Time Series Classification**](https://tsc-fm.dmirlab.com/) — an open time series classification benchmark and leaderboard covering Standard and few-shot evaluation of foundation models across univariate and multivariate datasets. Explore the [evaluated foundation models](https://tsc-fm.dmirlab.com/methods), [leaderboard](https://tsc-fm.dmirlab.com/leaderboard), and [evaluation protocol](https://tsc-fm.dmirlab.com/evaluation).
 
 
 
@@ -19,7 +23,7 @@ Publications
 ======
 **# indicates equal contribution.**
 1. Junxian Huang, Ruichu Cai, **Juntao Fang**, Hao Zhu, Boyan Xu, Weilin Chen, Zijian Li, Shenghua Gao: "Hierarchical Action Learning for Weakly-Supervised Action Segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026.
-2. **Juntao Fang**, Shifeng Xie, Shengbin Nie, Yuhui Ling, Yuming Liu, Zijian Li, Keli Zhang, Lujia Pan, Themis Palpanas, Ruichu Cai: "Beyond Task-Specific Classifiers: In-Context Inference for Time Series Classification Foundation Models." ICML Workshop on Foundation Models for Structured Data, 2026.
+2. **Juntao Fang**, Shifeng Xie, Shengbin Nie, Yuhui Ling, Yuming Liu, Zijian Li, Keli Zhang, Lujia Pan, Themis Palpanas, Ruichu Cai: "Beyond Task-Specific Classifiers: In-Context Inference for Time Series Classification Foundation Models." ICML Workshop on Foundation Models for Structured Data, 2026. [[Paper](https://arxiv.org/abs/2602.00620)] [[Code](https://github.com/fangjuntao/TIC-FM)] [[Benchmark](https://tsc-fm.dmirlab.com/methods/tic-fm)]
 3. Changze Zhou, Ruichu Cai, Shengbin Nie, **Juntao Fang**, Jie Qiao, Zijian Li: "Disentangling Coarse and Fine Latent Dynamics for Probabilistic Time Series Forecasting." Accepted by IJCAI 2026.
 4. **Juntao Fang**, Jinyu Duan, Fan Zhang, Jiachen Sun,  Wenqing Lin: "Maximizing Coreness Gain via Incentive Allocation." Accepted by DSIT 2024.
 5. Siyi Teng, Jiadong Xie, Fan Zhang, Can Lu, **Juntao Fang**, Kai Wang: "Optimizing Network Resilience via Vertex Anchoring." Accepted by The Web Conference 2024 (oral).
